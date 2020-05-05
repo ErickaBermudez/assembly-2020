@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>D:\Repositories\assembly-2020\Calculadora\Calculadora\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Archivos de programa\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\Archivos de programa\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Repositories\assembly-2020\Calculadora\Calculadora\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Archivos de programa\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Repositories\assembly-2020\Calculadora\Calculadora\Debug\Calculadora.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Calculadora.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Calculadora.map</FILE>
+  <FILE>Calculadora.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>D:\Repositories\assembly-2020\Calculadora\Calculadora\main.asm</FILE><LINE>9</LINE></Start>
+  <div><FILE>D:\Repositories\assembly-2020\Calculadora\Calculadora\main.asm</FILE><LINE>33</LINE></div>
+ </LABELS>
+</ASSEMBLER_INFO>
