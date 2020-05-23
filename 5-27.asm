@@ -24,7 +24,7 @@ AGAIN:
 NEXT:
 	DEC R16			; decrementa R16 (los 8 bits)
 	BRNE AGAIN		; si R16 no es cero entonces hacemos el ciclo de nuevo
-HERE: 
+FND: 
 	OUT PORTB, R21	; imprimimos la posicion en la que lo encontramos
 	JMP FND			; terminamos
 
